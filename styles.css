@@ -1,0 +1,31 @@
+
+.all-information {
+  border: 1px solid green;
+  width: 300px;
+  padding: 15px;
+}
+.title-name {
+  margin-bottom: 55px;
+}
+.interesting-fact {
+  font-style: italic;
+  margin-bottom: 8px;
+  font-size: 22px;
+  color: green;
+}
+.animal-information {
+  padding: 8px;
+  border: 1px solid gray;
+}
+
+.label {
+  font-weight: bold;
+}
+.image-size {
+  width: 300px;
+  margin-bottom: 10px;
+}
+ul {
+  margin-top: 35px;
+  list-style-type: none;
+}
